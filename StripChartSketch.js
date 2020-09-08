@@ -96,7 +96,7 @@ function draw() {
     line(rightMargin/2 + 60, bottomMargin + 36, rightMargin/2 +100, bottomMargin + 36);
     triangle(rightMargin/2+100, bottomMargin+30, rightMargin/2 + 100, bottomMargin + 42, rightMargin/2 + 110, bottomMargin+36);
     textSize(20);
-    text("Distribution of Body Mass(in g) [Jitter Plot]", rightMargin/2 - 50, upperMargin - 50);
+    text("Distribution of Body Mass(in g) [Strip Chart]", rightMargin/2 - 50, upperMargin - 50);
 
 
 }
